@@ -156,7 +156,7 @@ const App = () => {
                   <p style={styles.teamRole}>Co-Owner</p>
                 </div>
                 <div style={styles.teamCard}>
-                  <img src="/images/SharanHS.png" alt="Sharan" style={styles.portraitImage} />
+                  <img src="/images/sharan.jpg" alt="Sharan" style={styles.portraitImage} />
                   <h4 style={styles.teamName}>SHARAN</h4>
                   <p style={styles.teamRole}>Co-Owner</p>
                 </div>
@@ -439,5 +439,6 @@ const styles = {
   serifHeading: { fontSize: '38px', fontFamily: 'serif' },
   placeholderPage: { height: '100vh', display: 'flex', justifyContent: 'center', alignItems: 'center', color: '#fff' }
 };
+
 
 export default App;
