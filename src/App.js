@@ -50,7 +50,7 @@ const App = () => {
         </div>
         <div style={styles.footerCol}>
           <h4 style={styles.footerHeading}>CONTACT INFO</h4>
-          <p style={styles.footerText}>555-555-5555<br/>info@parsley-sage.com<br/>1234 Street, New York, NY 10001</p>
+          <p style={styles.footerText}>678-290-9293<br/>sales@parsley-sage.com<br/>808 Pickens Industrial DR., Marietta, GA 30062</p>
         </div>
         <div style={styles.footerCol}>
           <p style={styles.copyright}>© Copyright 2026. All rights reserved.</p>
@@ -442,3 +442,4 @@ const styles = {
 
 
 export default App;
+
